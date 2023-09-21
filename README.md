@@ -11,13 +11,13 @@
 ## 3. Main Function
 The primary function of this project is to develop an aumated trading system. 
 Some of the tasks that this program performs are...
-### 1. Authentication with the Questrade API:
-### 2.Watchlist and Asset Selection:
-### 3.Continuous Monitoring and Trading:
-### 4.Data Simulation and Analysis:
-### 5.Trading Strategy Execution:
-### 6.Order Placement and Response:
-### 7.Sleep and Reiteration:
+- Authentication with the Questrade API:
+- Watchlist and Asset Selection:
+- Continuous Monitoring and Trading:
+- Data Simulation and Analysis:
+- Trading Strategy Execution:
+- Order Placement and Response:
+- Sleep and Reiteration:
 
    
 ## 5. Troubleshooting
