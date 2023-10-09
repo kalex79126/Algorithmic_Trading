@@ -21,6 +21,5 @@ Some of the tasks that this program performs are...
 
    
 ## 5. Troubleshooting
-- Data not being generated properly
 - Fixed where iteration not performed properly
 - Watchlist is added in the system 
